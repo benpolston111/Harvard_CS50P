@@ -23,10 +23,10 @@
 - Grocery List ✅
 - Outdated ✅
 ### Week4
-- Emojize
-- Frank, Ian and Glen's Letters
-- Adieu, Adieu
-- Guesing Game
+- Emojize ✅
+- Frank, Ian and Glen's Letters ✅
+- Adieu, Adieu ✅
+- Guesing Game ✅
 - Little Professor
 - Bitcoin Price Index
 ### Week5
