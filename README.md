@@ -27,7 +27,7 @@
 - Frank, Ian and Glen's Letters ✅
 - Adieu, Adieu ✅
 - Guesing Game ✅
-- Little Professor
+- Little Professor ✅
 - Bitcoin Price Index
 ### Week5
 - Testing my twtter
