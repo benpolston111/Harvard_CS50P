@@ -28,7 +28,7 @@
 - Adieu, Adieu ✅
 - Guesing Game ✅
 - Little Professor ✅
-- Bitcoin Price Index
+- Bitcoin Price Index ✅
 ### Week5
 - Testing my twtter
 - Back to the Bank
